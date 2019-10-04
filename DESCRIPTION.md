@@ -24,6 +24,12 @@ expo install expo-location
 yarn add axios
 ```
 
+> prop-types
+
+```
+yarn add prop-types
+```
+
 ## 참고사항
 
 간혹 Xcode가 설치 돼 있음에도 IOS 시뮬레이션을 실행 시
