@@ -8,56 +8,54 @@ const weatherOptions = {
     Thunderstorm: {
         iconName: "weather-lightning",
         gradient: ["#373B44", "#4286f4"],
-        title: "Thunderstorm",
-        subtitle: "this one as well then?"
+        title: "Thunderstorm in the house",
+        subtitle: "Actually, outside of the house"
     },
     Drizzle: {
         iconName: "weather-hail",
         gradient: ["#89F7FE", "#66A6FF"],
         title: "Drizzle",
-        subtitle: "this one as well then?"
+        subtitle: "Is like rain, but gay 🏳️‍🌈"
     },
     Rain: {
         iconName: "weather-rainy",
         gradient: ["#00C6FB", "#005BEA"],
-        title: "Rain",
-        subtitle: "this one as well then?"
+        title: "Raining like a MF",
+        subtitle: "For more info look outside"
     },
     Snow: {
         iconName: "weather-snowy",
         gradient: ["#7DE2FC", "#B9B6E5"],
-        title: "Snow",
-        subtitle: "this one as well then?"
+        title: "Cold as balls",
+        subtitle: "Do you want to build a snowman? Fuck no."
     },
     Atmosphere: {
         iconName: "weather-hail",
-        gradient: ["#89F7FE", "#66A6FF"],
-        title: "Atmosphere",
-        subtitle: "this one as well then?"
+        gradient: ["#89F7FE", "#66A6FF"]
     },
     Clear: {
         iconName: "weather-sunny",
         gradient: ["#FF7300", "#FEF253"],
-        title: "Clear",
-        subtitle: "this one as well then?"
+        title: "Sunny as fuck",
+        subtitle: "Go get your ass burnt"
     },
     Clouds: {
         iconName: "weather-cloudy",
         gradient: ["#D7D2CC", "#304352"],
         title: "Clouds",
-        subtitle: "this one as well then?"
+        subtitle: "I know, fucking boring"
     },
     Mist: {
         iconName: "weather-hail",
         gradient: ["#4DA0B0", "#D39D38"],
-        title: "Mist",
-        subtitle: "this one as well then?"
+        title: "Mist!",
+        subtitle: "It's like you have no glasses on."
     },
     Dust: {
         iconName: "weather-hail",
         gradient: ["#4DA0B0", "#D39D38"],
-        title: "Dust",
-        subtitle: "this one as well then?"
+        title: "Dusty",
+        subtitle: "Thanks a lot China 🖕🏻"
     },
     Haze: {
         iconName: "weather-hail",
